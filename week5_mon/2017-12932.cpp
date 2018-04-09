@@ -5,7 +5,7 @@
 using namespace std;
 vector<int> l;
 int main() {
-	int n;
+	int n; //?
 	while(cin>>n){
 		l.push_back(-n);
 	}
